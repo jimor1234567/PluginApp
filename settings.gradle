@@ -1,0 +1,1 @@
+include ':app', ':ZeusPlugin', ':librarya', ':libraryb', ':plugina_wrap',':pluginb_wrap'

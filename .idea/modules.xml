@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/PluginApp.iml" filepath="$PROJECT_DIR$/PluginApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ZeusPlugin/ZeusPlugin.iml" filepath="$PROJECT_DIR$/ZeusPlugin/ZeusPlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/librarya/librarya.iml" filepath="$PROJECT_DIR$/librarya/librarya.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryb/libraryb.iml" filepath="$PROJECT_DIR$/libraryb/libraryb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/plugina_wrap/plugina_wrap.iml" filepath="$PROJECT_DIR$/plugina_wrap/plugina_wrap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pluginb_wrap/pluginb_wrap.iml" filepath="$PROJECT_DIR$/pluginb_wrap/pluginb_wrap.iml" />
+    </modules>
+  </component>
+</project>
