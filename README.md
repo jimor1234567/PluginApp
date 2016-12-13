@@ -21,4 +21,5 @@
 	- libraryb
 
 参考下图：
+
 <img src="./pic/app_module.png" width="640" />
